@@ -1,5 +1,5 @@
 # Java-BST-Assignment
-Spring 2022 Data Structures &amp; Algorithms Assignment 4
+Spring 2022 Data Structures &amp; Algorithms Assignment 3
 
 Download the code provided by the textbook in order to complete this program.
 This is a two part assignment.
